@@ -1,9 +1,9 @@
 {
   "name": "@tsnomad/fetch",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Fetch strategy contract and the fetch payload, the TypeScript counterpart to PHPNomad's fetch package",
   "type": "module",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "homepage": "https://github.com/tsnomad/fetch#readme",
   "bugs": {
     "url": "https://github.com/tsnomad/fetch/issues"
